@@ -1,34 +1,34 @@
   body{
-            background-color: ;
-            color:#e0e0e0;
-            font-family: Arial,  sans-serif;
-            line-height: 1.6;
+            background-color: red;
+            color: black;
+            font-family: Arial;
+            line-height: normal;
         }
         header{
-            background-color: #0f1a3d;
-            padding: 2rem;
-            border-bottom: 3px, solid, #ff00ff;
+            background-color: red;
+            padding: black: 2rem;
+            border-bottom: 5px, solid, silver;
             margin-bottom: 2rem;
         }
         footer{
-            background-color:#0f1a3d;
-            color: #00d4ff;
+            background-color: red;
+            color: black;
             padding: 2rem;
             text-align: center;
-            border-top:  3px, solid, #00d4ff;
+            border-top:  3px, solid, silver;
         }
         h1{
-            color: #ff00ff;
+            color: black;
             font-size: 2.5rem;
             margin-bottom: 0.5rem;
         }
         h2{
-            color: #00d4ff;
+            color: black;
             font-size: 1.8rem;
             margin-top: 2rem;
             margin-bottom: 1rem;
             padding-bottom: 0.5rem;
-            border-bottom: 2px, solid, #ff00ff;
+            border-bottom: 2px, solid, silver;
         }
         h3{
             color: #ff00ff;
@@ -36,23 +36,23 @@
             margin-bottom: 0.5rem;
         }
         a{
-            color: #00d4ff;
+            color: black;
             text-decoration: none;
             font-weight: bold;
         }
         a:hover{
-            color: #ff00ff;
+            color: black;
         }
         .container{
-            max-width: 1200px;
+            max-width: 1300px;
             margin: 0 auto;
             padding: 0, 1.5rem;
         }
         .section{
-            background-color: #0f1a3d;
+            background-color: red;
             padding: 2rem;
             margin-bottom: 2rem;
-            border-left: 5px, solid, #00d4ff;
+            border-left: 5px, solid, silver;
             border-radius:  8px;
         }
         /* Element Selectors */
